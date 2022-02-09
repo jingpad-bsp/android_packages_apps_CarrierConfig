@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <carrier_config>
+    <boolean name="carrier_default_wfc_ims_enabled_bool" value="true"/>
     <boolean name="show_4g_for_lte_data_icon_bool" value="true"/>
+    <boolean name="support_show_wifi_calling_preference" value="false"/>
+    <boolean name="synchronous_setting_for_wfc_volte" value="false"/>
+    <int name="carrier_default_wfc_ims_mode_int" value="1"/>
+    <boolean name="carrier_wfc_ims_available_bool" value="true" />
+    <boolean name="support_send_ss_over_vowifi_with_airplane" value="true" />
+    <boolean name="request_xcap_pdn_for_cw" value="false" />
+    <boolean name="support_send_ussd_over_vowifi" value="false"/>
 </carrier_config>

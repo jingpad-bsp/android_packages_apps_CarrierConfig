@@ -6,4 +6,8 @@
     <int name="maxImageHeight" value="1944"/>
     <int name="maxMessageSize" value="614400"/>
     <int name="maxImageWidth" value="2592"/>
+    <string name="carrier_name_string">SFR</string>
+    <string name="default_vm_number_string">123</string>
+    <boolean name="carrier_volte_available_bool" value="true" />
+    <boolean name="carrier_vt_available_bool" value="true"/>
 </carrier_config>

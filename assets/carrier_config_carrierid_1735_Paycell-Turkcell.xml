@@ -3,4 +3,6 @@
     <int name="maxImageHeight" value="1944"/>
     <int name="maxMessageSize" value="512000"/>
     <int name="maxImageWidth" value="2592"/>
+    <int name="carrier_default_wfc_ims_mode_int" value="1" />
+    <boolean name="carrier_wfc_ims_available_bool" value="true" />
 </carrier_config>
